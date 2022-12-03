@@ -6,7 +6,6 @@
       "Surname": "Şahin",
       "PlayerDesc": "Deneme yapan ADAM",
       "MaxGold": "523",
-      "Team": "Skyview"
     },
     {
       "UserID": "1",
@@ -14,7 +13,6 @@
       "Surname": "Şahin",
       "PlayerDesc": "Deneme yapan ADAM",
       "MaxGold": "523",
-      "Team": "Skyview"
     },
     {
       "UserID": "2",
@@ -22,7 +20,6 @@
       "Surname": "Şahin",
       "PlayerDesc": "Deneme yapan ADAM",
       "MaxGold": "523",
-      "Team": "Skyview"
     },
     {
       "UserID": "3",
@@ -30,7 +27,6 @@
       "Surname": "Şahin",
       "PlayerDesc": "Deneme yapan ADAM",
       "MaxGold": "523",
-      "Team": "Skyview"
     }
   ]
 }
