@@ -5,28 +5,28 @@
       "Firstname": "Muhammed",
       "Surname": "Şahin",
       "PlayerDesc": "Deneme yapan ADAM",
-      "MaxGold": "523",
+      "MaxGold": "523"
     },
     {
       "UserID": "1",
       "Firstname": "Abuzetttin",
       "Surname": "Şıkışelli",
       "PlayerDesc": "Deneme yapan Arap",
-      "MaxGold": "700",
+      "MaxGold": "700"
     },
     {
       "UserID": "2",
       "Firstname": "Şemsettin",
       "Surname": "Kıllı",
       "PlayerDesc": "Deneme yapan Kürt",
-      "MaxGold": "900",
+      "MaxGold": "900"
     },
     {
       "UserID": "3",
       "Firstname": "Ahu",
       "Surname": "Alev",
       "PlayerDesc": "Deneme yapan Kadın",
-      "MaxGold": "800",
+      "MaxGold": "800"
     }
   ]
 }
