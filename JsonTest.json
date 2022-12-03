@@ -1,5 +1,5 @@
 {
-  "UserInfo":[
+  "userinfo":[
     {
       "UserID": "0",
       "Firstname": "Muhammed",
@@ -9,24 +9,24 @@
     },
     {
       "UserID": "1",
-      "Firstname": "Muhammed",
-      "Surname": "Şahin",
-      "PlayerDesc": "Deneme yapan ADAM",
-      "MaxGold": "523",
+      "Firstname": "Abuzetttin",
+      "Surname": "Şıkışelli",
+      "PlayerDesc": "Deneme yapan Arap",
+      "MaxGold": "700",
     },
     {
       "UserID": "2",
-      "Firstname": "Muhammed",
-      "Surname": "Şahin",
-      "PlayerDesc": "Deneme yapan ADAM",
-      "MaxGold": "523",
+      "Firstname": "Şemsettin",
+      "Surname": "Kıllı",
+      "PlayerDesc": "Deneme yapan Kürt",
+      "MaxGold": "900",
     },
     {
       "UserID": "3",
-      "Firstname": "Muhammed",
-      "Surname": "Şahin",
-      "PlayerDesc": "Deneme yapan ADAM",
-      "MaxGold": "523",
+      "Firstname": "Ahu",
+      "Surname": "Alev",
+      "PlayerDesc": "Deneme yapan Kadın",
+      "MaxGold": "800",
     }
   ]
 }
