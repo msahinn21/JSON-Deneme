@@ -30,6 +30,7 @@
     },
     {
       "UserID": "4",
+      "ProductionProgress": "Production Proggress %",
       "ProgressBar": "100"
     }
   ]
