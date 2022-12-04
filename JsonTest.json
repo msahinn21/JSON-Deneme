@@ -1,5 +1,5 @@
 {
-  "userinfo":[
+  "userinfo": [
     {
       "UserID": "0",
       "Firstname": "Muhammed",
@@ -27,6 +27,10 @@
       "Surname": "Alev",
       "PlayerDesc": "Deneme yapan Kadın",
       "MaxGold": "800"
+    },
+    {
+      "UserID": "4",
+      "ProgressBar": "100"
     }
   ]
 }
