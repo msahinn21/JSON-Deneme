@@ -3,7 +3,10 @@
     {
       "UserID": "0",
       "ProductionProgress": "Production Proggress %",
-      "ProgressBar": "3"
+      "ProgressBar": "100",
+      "Part-1": "23",
+      "Info-1": "Connecter peace",
+      "Info-2": "Ryan James"
     }
   ]
 }
