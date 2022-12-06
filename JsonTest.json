@@ -3,10 +3,10 @@
     {
       "UserID": "0",
       "ProductionProgress": "Production Proggress %",
-      "ProgressBar": "2",
+      "ProgressBar": "100",
       "Part-1": "23",
-      "Info-1": "Chasis Connector Piece",
-      "Info-2": "Ryan Jacob"
+      "Info-1": "Connecter peace",
+      "Info-2": "Ryan James"
     },
     {
       "UserID": "1",
@@ -27,8 +27,10 @@
     },
     {
       "UserID": "2",
+      "//first_comment": "Only values between 0 and 6 will be entered for Pressure.",
       "Pressure": "3.4",
-      "Temperature": "-15"
+      "//second_comment": "Only values between -50 and +50 will be entered for Temperature.",
+      "Temperature": "15C"
     }
   ]
 }
