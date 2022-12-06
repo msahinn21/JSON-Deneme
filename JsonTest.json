@@ -2,11 +2,11 @@
   "userinfo": [
     {
       "UserID": "0",
-      "ProductionProgress": "Production Proggress %",
-      "ProgressBar": "100",
+      "ProductionProgress": "Production Progress %",
+      "ProgressBar": "2",
       "Part-1": "23",
-      "Info-1": "Connecter peace",
-      "Info-2": "Ryan James"
+      "Info-1": "Chasis Connector Piece",
+      "Info-2": "Ryan Jacob"
     },
     {
       "UserID": "1",
