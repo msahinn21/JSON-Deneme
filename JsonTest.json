@@ -27,9 +27,9 @@
     },
     {
       "UserID": "2",
-      "//first_comment": "Only values between 0 and 6 will be entered for Pressure.",
+      "//first_comment": "Only values between 0 and 6 for Pressure.",
       "Pressure": "3.4",
-      "//second_comment": "Only values between -50 and +50 will be entered for Temperature.",
+      "//second_comment": "Only values between -50 and +50 for Temperature.",
       "Temperature": "15"
     }
   ]
